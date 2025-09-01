@@ -42,10 +42,11 @@ The following models were trained and compared:
 - Support Vector Regressor (SVR)
 
 ## 📊 Results
-Model	R-squared	Mean Absolute Error
-Linear Regression	0.913	$10,362.67
-Gradient Boosting	0.903	$10,101.66
-Random Forest	0.895	$10,217.87
-SVR	-0.021	$40,479.08
+Model	  R-squared	  Mean Absolute Error
+- Linear Regression	  0.913	  $10,362.67
+- Gradient Boosting	  0.903	  $10,101.66
+- Random Forest	  0.895	  $10,217.87
+- SVR	  -0.021	  $40,479.08
 
-🏆 Best Model: Linear Regression (Highest R² = 0.913)
+🏆 Best Model: 
+Linear Regression (Highest R² = 0.913)
