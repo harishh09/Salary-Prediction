@@ -27,19 +27,19 @@ pip install -r requirements.txt
 ```
 
 ## requirements.txt
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
 
 ## 🚀 Models Implemented
 
 The following models were trained and compared:
-Linear Regression
-Random Forest Regressor
-Gradient Boosting Regressor
-Support Vector Regressor (SVR)
+- Linear Regression
+- Random Forest Regressor
+- Gradient Boosting Regressor
+- Support Vector Regressor (SVR)
 
 ## 📊 Results
 Model	R-squared	Mean Absolute Error
