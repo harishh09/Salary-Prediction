@@ -24,3 +24,28 @@ Clone the repository and install dependencies:
 git clone https://github.com/harishh09/salary-prediction.git
 cd salary-prediction
 pip install -r requirements.txt
+```
+
+## requirements.txt
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+##🚀 Models Implemented
+
+The following models were trained and compared:
+Linear Regression
+Random Forest Regressor
+Gradient Boosting Regressor
+Support Vector Regressor (SVR)
+
+##📊 Results
+Model	R-squared	Mean Absolute Error
+Linear Regression	0.913	$10,362.67
+Gradient Boosting	0.903	$10,101.66
+Random Forest	0.895	$10,217.87
+SVR	-0.021	$40,479.08
+
+🏆 Best Model: Linear Regression (Highest R² = 0.913)
