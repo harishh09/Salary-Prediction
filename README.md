@@ -33,7 +33,7 @@ scikit-learn
 matplotlib
 seaborn
 
-##🚀 Models Implemented
+## 🚀 Models Implemented
 
 The following models were trained and compared:
 Linear Regression
@@ -41,7 +41,7 @@ Random Forest Regressor
 Gradient Boosting Regressor
 Support Vector Regressor (SVR)
 
-##📊 Results
+## 📊 Results
 Model	R-squared	Mean Absolute Error
 Linear Regression	0.913	$10,362.67
 Gradient Boosting	0.903	$10,101.66
