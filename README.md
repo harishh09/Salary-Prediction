@@ -21,6 +21,6 @@ The dataset contains employee salary information with the following columns:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/salary-prediction.git
+git clone https://github.com/harishh09/salary-prediction.git
 cd salary-prediction
 pip install -r requirements.txt
